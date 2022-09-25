@@ -2,6 +2,8 @@
 
 ![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
 
+Live Solution: [Single-Price-Grid](https://aniru-dh21.github.io/Single-Price-Grid/).
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
